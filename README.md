@@ -2,7 +2,7 @@
 A 3D Printable, adjustable, clip for holding a Tobii eye-tracker onto a laptop.
 ![A photo showing the eye-tracker clip in use](/images/clip_in_use.jpeg)
 
-This clip is designed to accommodate laptops between the 2021 M1 MacBooks and the Dell Latitude E7470.
+This clip is designed to accommodate laptops between the thickness of the 2021 M1 MacBooks and the Dell Latitude E7470.
 
 ## Notes on Printing
 ### Supports
