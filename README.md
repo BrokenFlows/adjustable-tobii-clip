@@ -29,7 +29,8 @@ The ridges at the back of the eye-tracker clip can be sanded down, clipped, or o
 
 ## Notes on Printing
 ### Supports
-Given the default orientations, only the clips need supports
+In the default orientations the clips and the end caps require supports.
+The end caps can be orientated to print without supports, but it makes part of the connection much more fragile.
 
 ### Layer Height Resolution
 0.2 mm
